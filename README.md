@@ -1,6 +1,6 @@
 ## Python pour les SHS - URFIST Lyon - 24 mai 2022
 
-Description de la séance : (ICI)[https://sygefor.reseau-urfist.fr/#/training/9582/11267](https://sygefor.reseau-urfist.fr/#/training/8972/11331]
+Description de la séance : [ICI](https://sygefor.reseau-urfist.fr/#/training/8972/11331)
 
 La séance de 6 heures en **présentiel** couvre :
 
